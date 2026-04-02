@@ -1,4 +1,8 @@
 flask
 gunicorn
-opencv-python
+opencv-python-headless
 numpy
+easyocr
+Pillow
+torch
+torchvision
