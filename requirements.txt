@@ -4,5 +4,4 @@ opencv-python-headless
 numpy
 easyocr
 Pillow
-torch
-torchvision
+ 
